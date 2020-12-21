@@ -1,3 +1,3 @@
 let obj = JSON.parse($response.body);
-obj = {"data":{"psnl_vip_property":{"expiry":"1643731200"}}};
+obj = {"adequitytime":9999999999999};
 $done({body: JSON.stringify(obj)});
