@@ -1,7 +1,9 @@
 
 //电视家
-//loon.http-response ^http://47.95.69.248/api/v3/user/info script-path=https://raw.githubusercontent.com/nkrwj/nkrwj/main/js, requires-body=true, timeout=10, tag=电视家;
+/*
+loon.http-response ^http://47.95.69.248/api/v3/user/info script-path=https://raw.githubusercontent.com/nkrwj/nkrwj/main/js, requires-body=true, timeout=10, tag=电视家;
 //MITM:47.95.69.248;
+*/
 //console.log（'测试写出日志'）; //输出日志
 
 //$notification.post('title标题'，'subTitle子标题子标题子标题'，'body内容内容内容内容'）//用于通知栏提醒
