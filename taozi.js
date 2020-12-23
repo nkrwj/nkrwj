@@ -12,7 +12,7 @@ var obj = JSON.parse(body); // JSON.parse()将json形式的body转变成对象�
 
 
 obj.result.vipType= 1;
-obj.result.vipvalidDate= 9999999999999;
+obj.result.vipValidDate= 9999999999999;
 
 body = JSON.stringify(obj); // 重新打包回json字符串
 
