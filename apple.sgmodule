@@ -1,6 +1,5 @@
-#!url=https://raw.githubusercontent.com/fangkuia/XPTV/main/X/xptv.sgmodule
-#!name=XPTV规则
-#!desc=仅直连
+#!name=apple拦截规则
+#!desc=仅拦截
 [rule]
 #aptv
 DOMAIN, mesu.apple.com, REJECT
