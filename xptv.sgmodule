@@ -2,14 +2,6 @@
 #!name=XPTV规则
 #!desc=仅直连
 [Rule]
-#aptv
-DOMAIN, epg.112114.xyz, DIRECT
-DOMAIN, live.fanmingming.com, DIRECT
-DOMAIN, www.goodiptv.club, DIRECT
-DOMAIN, epg.aptv.app, DIRECT
-DOMAIN, mesu.apple.com, REJECT
-DOMAIN, gdmf.apple.com, REJECT
-DOMAIN, updates-http.cdn-apple.com, REJECT
 #玩偶哥哥（直连）
 DOMAIN-KEYWORD, wogg, DIRECT
 DOMAIN-SUFFIX, wogg.link, DIRECT
