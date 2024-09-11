@@ -3,6 +3,10 @@
 #!desc=仅直连
 [Rule]
 #aptv
+DOMAIN, epg.112114.xyz, DIRECT
+DOMAIN, live.fanmingming.com, DIRECT
+DOMAIN, www.goodiptv.club, DIRECT
+DOMAIN, epg.aptv.app, DIRECT
 DOMAIN, mesu.apple.com, reject
 DOMAIN, gdmf.apple.com, reject
 DOMAIN, updates-http.cdn-apple.com, reject
