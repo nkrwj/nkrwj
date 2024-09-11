@@ -1,0 +1,8 @@
+#!url=https://raw.githubusercontent.com/fangkuia/XPTV/main/X/xptv.sgmodule
+#!name=XPTV规则
+#!desc=仅直连
+[rule]
+#aptv
+DOMAIN, mesu.apple.com, REJECT
+DOMAIN, gdmf.apple.com, REJECT
+DOMAIN, updates-http.cdn-apple.com, REJECT
