@@ -1,0 +1,7 @@
+#!name=apple拦截规则
+#!desc=仅拦截
+[rule]
+#aptv
+host, mesu.apple.com, REJECT
+host, gdmf.apple.com, REJECT
+host, updates-http.cdn-apple.com, REJECT
