@@ -4,6 +4,8 @@
 [Rule]
 #蘑菇emby
 DOMAIN-SUFFIX, wf.vban.xyz, DIRECT
+#misakaf
+DOMAIN-SUFFIX, emby.misakaf.org, DIRECT
 #aptv
 DOMAIN, epg.112114.xyz, DIRECT
 DOMAIN, live.fanmingming.com, DIRECT
