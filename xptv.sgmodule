@@ -2,11 +2,12 @@
 #!name=XPTV规则
 #!desc=仅直连
 [Rule]
-#蘑菇emby
-#DOMAIN-SUFFIX, wf.vban.xyz, DIRECT
+#阿甘正传
+DOMAIN-SUFFIX, 1.aganemby.top, DIRECT
+#awa影视
+DOMAIN-SUFFIX, tv.811861.xyz, DIRECT
 #misakaf
-#DOMAIN-SUFFIX, emby.misakaf.org, DIRECT
-#DOMAIN-KEYWORD, misakaf, DIRECT
+DOMAIN-SUFFIX, embyvip.misakaf.org, DIRECT
 #aptv
 DOMAIN, epg.112114.xyz, DIRECT
 DOMAIN, live.fanmingming.com, DIRECT
