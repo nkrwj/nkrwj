@@ -4,8 +4,10 @@
 [Rule]
 #阿甘正传
 DOMAIN-SUFFIX, 1.aganemby.top, DIRECT
+#awa影视
+DOMAIN-SUFFIX, tv.811861.xyz, DIRECT
 #misakaf
-DOMAIN-SUFFIX,  embyvip.misakaf.org, DIRECT
+DOMAIN-SUFFIX, embyvip.misakaf.org, DIRECT
 #aptv
 DOMAIN, epg.112114.xyz, DIRECT
 DOMAIN, live.fanmingming.com, DIRECT
