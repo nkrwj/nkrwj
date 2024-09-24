@@ -2,6 +2,8 @@
 #!name=XPTV规则
 #!desc=仅直连
 [Rule]
+#阿甘正传
+DOMAIN-SUFFIX, 1.aganemby.top, DIRECT
 #misakaf
 DOMAIN-SUFFIX,  embyvip.misakaf.org, DIRECT
 #aptv
