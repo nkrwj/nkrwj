@@ -2,10 +2,16 @@
 #!name=XPTV规则
 #!desc=仅直连
 [Rule]
-#awa
-DOMAIN-SUFFIX, tv.811861.xyz, DIRECT
 #蘑菇emby
-DOMAIN-SUFFIX, wf.vban.xyz, DIRECT
+#DOMAIN-SUFFIX, wf.vban.xyz, DIRECT
+#misakaf
+#DOMAIN-SUFFIX, emby.misakaf.org, DIRECT
+#DOMAIN-KEYWORD, misakaf, DIRECT
+#aptv
+DOMAIN, epg.112114.xyz, DIRECT
+DOMAIN, live.fanmingming.com, DIRECT
+DOMAIN, www.goodiptv.club, direct
+DOMAIN, epg.aptv.app, direct
 #玩偶哥哥（直连）
 DOMAIN-KEYWORD, wogg, DIRECT
 DOMAIN-SUFFIX, wogg.link, DIRECT
