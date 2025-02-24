@@ -1,5 +1,4 @@
-host ,emby.cn2gias.uk, emby
-host ,stream2.misakaf.org, emby
-host ,stream3.misakaf.org, emby
-#host ,wf.vban.xyz, emby
-#IP-CIDR ,49.12.131.154/32, emby
+host ,emby.cn2gias.uk, emby #sntp 
+host ,pm.xmsl.org, emby  #laji
+host ,wf.vban.xyz, emby  #蘑菇
+host ,lite.saturday.video, emby  #saturDay
