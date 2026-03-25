@@ -1,3 +1,9 @@
+[rewrite_local]
+^https?:\/\/oppomini\.eqmobi\.com\/wt70\/naodongdafanzhuan\/wx\/remote\/1\/import\/.+?\.json url script-response-body https://raw.githubusercontent.com/nkrwj/nkrwj/refs/heads/main/nddfz.js
+[mitm]
+hostname = oppomini.eqmobi.com
+
+
 // 环境判断
 const ENV = {
   isQX: typeof $task !== "undefined",
